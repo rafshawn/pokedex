@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pokédex App
 ## Project Description
 
@@ -9,3 +10,6 @@
 - **Styling**: Tailwind CSS
 - **Routing**: React Router
 - **API**: PokeAPI
+=======
+# pokedex
+>>>>>>> origin/main
